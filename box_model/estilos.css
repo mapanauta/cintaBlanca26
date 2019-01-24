@@ -1,0 +1,26 @@
+body {
+  margin: 0;
+}
+
+.portada {
+  border: solid 1px red;
+  padding: 40px;
+}
+
+.titulo {
+  border: 1px solid;
+  /* margin por cada lado */
+  /* margin-top: 50px;
+  margin-bottom: 10px;
+  margin-left: 20px;
+  margin-right: 5px; */
+  /* Margin vertical y horizontal */
+  /* margin: 50px 10px; */
+  /* margen de cuatro lados en una sola linea */
+  margin: 50px 5px 10px 20px;
+
+}
+
+a {
+  border: 1px solid;
+}
