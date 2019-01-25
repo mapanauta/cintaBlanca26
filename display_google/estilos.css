@@ -1,0 +1,66 @@
+
+
+/* Display: inline */
+/* display inline ignora los estilos de tamaño */
+/*
+.titulo {
+  display: inline;
+  border: 1px solid;
+  width: 300px;
+}
+
+a {
+  border: 1px solid;
+} */
+
+/* Display: block */
+/* Permite cambiar el tamaño */
+/* .titulo {
+  border: 1px solid;
+  height: 300px;
+}
+
+a {
+  display: block;
+  border: 1px solid;
+} */
+
+/* display inline-block */
+/* .titulo {
+  display: inline-block;
+  border: 1px solid;
+  height: 300px;
+}
+
+a {
+  display: inline-block;
+  border: 1px solid;
+} */
+
+
+
+/* Estilos del clon de google */
+
+.header {
+  border: 1px solid blue;
+}
+
+.menu {
+  margin-left: 80%;
+}
+
+.main {
+  border: 1px solid red;
+  height: 450px;
+}
+
+.vertical {
+  display: block;
+}
+
+.google-container {
+  border: 1px solid blue;
+  width: 50%;
+  margin: auto;
+  margin-top: 100px;
+}
