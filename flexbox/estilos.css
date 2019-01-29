@@ -1,0 +1,17 @@
+.padre {
+  border: 1px solid blue;
+  width: 80%;
+  height: 400px;
+  /* Flexbox */
+  display: flex;
+  justify-content: flex-end;
+  flex-direction: column;
+
+
+}
+
+.hijo {
+  border: solid 1px red;
+  width: 20%;
+  height: 20%;
+}
