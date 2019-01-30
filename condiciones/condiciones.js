@@ -27,7 +27,7 @@
 // // negacion ** super especial
 // !
 
-let edad = prompt('edad')
+// let edad = prompt('edad')
 
 // if (edad <= 13) {
 //   console.log('niño')
@@ -44,23 +44,23 @@ let edad = prompt('edad')
 // }
 
 
-let residencia = "mexico"
-let edad = 20
-let ine = true
+// let residencia = "mexico"
+// let edad = 20
+// let ine = true
 
-if(edad >= 18){
-  if(ine === true) {
-    if(residencia === "mexico"){
-      console.log('ubica tu modulo')
-    }else {
-      console.log('acude a la embajada')
-    }
-  } else {
-    console.log('no puedes votar')
-  }
-} else {
-  console.log('no puedes votar')
-}
+// if(edad >= 18){
+//   if(ine === true) {
+//     if(residencia === "mexico"){
+//       console.log('ubica tu modulo')
+//     }else {
+//       console.log('acude a la embajada')
+//     }
+//   } else {
+//     console.log('no puedes votar')
+//   }
+// } else {
+//   console.log('no puedes votar')
+// }
 
 
 
@@ -77,3 +77,42 @@ if(edad >= 18){
 // } else {
 //   console.log("impar")
 // }
+
+// let edad = 23
+// let ine = true
+
+
+// if (edad >= 18 && ine === true ) {
+//   console.log('puedes votar')
+// } else {
+//   console.log('no puedes votar')
+// }
+
+// if (edad >= 18){
+//   if (ine === true){
+//     console.log('puedes votar')
+//   } else {
+//     console.log('no puedes votar')
+//   }
+// } else {
+//   console.log('no puedes votar')
+// }
+
+// // Operadores Lógicos
+
+// // and
+// &&
+
+// // or
+// ||
+
+// // not
+// !
+// let numero = 13
+
+// if (numero > 0 && numero < 10) {
+//   console.log("verdadero")
+// } else {
+//   console.log("falso")
+// }
+
