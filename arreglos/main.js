@@ -25,24 +25,54 @@
 // guardarlos en un arreglo
 // imprimir el arreglo completo
 // imprimir cada uno (del arreglo)
+// solucion 1
+// let nombre = prompt('nombre')
+// let apellido = prompt('apellido')
+// let email = prompt('email')
+// let edad = prompt('edad')
+// // defino un arreglo vacío
+// let datos = []
 
-let nombre = prompt('nombre')
-let apellido = prompt('apellido')
-let email = prompt('email')
-let edad = prompt('edad')
+// datos[0] = nombre
+// datos[1] = apellido
+// datos[2] = email
+// datos[3] = edad
 
-let datos = []
+// console.log(datos)
 
-datos[0] = nombre
-datos[1] = apellido
-datos[2] = email
-datos[3] = edad
+// console.log(datos[0])
+// console.log(datos[1])
+// console.log(datos[2])
+// console.log(datos[3])
 
-console.log(datos)
+// solucion 2
+// let datos = []
 
-console.log(datos[0])
-console.log(datos[1])
-console.log(datos[2])
-console.log(datos[3])
+// datos[0] = prompt('nombre')
+// datos[1] = prompt('apellido')
+// datos[2] = prompt('email')
+// datos[3] = prompt('edad')
 
+// console.log(datos)
+
+// console.log(datos[0])
+// console.log(datos[1])
+// console.log(datos[2])
+// console.log(datos[3])
+
+// solucion 3
+
+// let nombre = prompt('nombre')
+// let apellido = prompt('apellido')
+// let email = prompt('email')
+// let edad = prompt('edad')
+
+// let datos = [nombre, apellido, email, edad]
+
+// console.log(datos)
+
+// console.log(datos[0])
+// console.log(datos[1])
+// console.log(datos[2])
+// console.log(datos[3])
 
