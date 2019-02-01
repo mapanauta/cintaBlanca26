@@ -1,0 +1,16 @@
+Hola, para lxs que no fueron ayer, no se asusten, estuvo muy fácil lo de bootstrap. Los pasos que hicimos fueron los siguientes:
+
+a. Abrir un carpeta dentro de Cinta Blanca que se llame BootStrap y dos archivos, index y main
+b. Ir a https://getbootstrap.com/ y después ir a Get started
+c. Ya en Get started se bajan un poquito y van a ver Starter Template ese van a copiarlo para pegarlo en su index. Se acuerdan que anteriormente poníamos ! y enter, pues ahora en vez de ese paso se pega el Starter template.
+d. En la barra del lado izquierdo van a ver Components, busquen Navbar  y denle copy, agréguenlo en su index (yo lo agregué en body, si recuerdo abrí un Header y ahí lo pegué)
+e. Tienen varios ejemplos de Navbar, pueden pegar el estilo que prefieran.
+f. Si se van a Color Scheme dentro del mismo componente de Navbar pueden ver el código para hacer cambio de color. Por default te pone .navbar-light y podrían cambiarlo a .navbar-dark
+g. Ahora agreguen el elemento Carrousel, ese elemento lo agregué dentro de <main>
+h. Van a ver que en el src de las imágenes no hay un link, busquen en Internet 3 imágenes  (para el ejemplo busqué imágenes de 800*400) y así ver como corre el carrousel.
+
+Nota: Realmente Bootstrap ya tiene todos los atajos para hacer web development y se usa principalmente en el Index donde se va pegando el código y ya tiene sus class definidas. Hay que tener cuidado con no modificar las class de Bootstrap porque romperías el código.
+
+Básicamente es lo que hicimos, si olvidé algo por favor no duden en mencionarlo.
+
+Saludos y nos vemos en la noche.
